@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Mariya
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=36BCF7&lines=Data+Analytics+Engineer;SQL+%7C+Python+%7C+Spark;Building+Data+Pipelines)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=36BCF7&lines=I'm+a+Data+Analytics+Engineer;Turning+Data+Into+Insights)
 ---
 
 ## 🚀 Tech Stack
