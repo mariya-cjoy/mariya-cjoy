@@ -1,7 +1,6 @@
 # Hi there 👋 I'm Mariya
 
-💻 Data Analytics Engineer passionate about building data pipelines and turning raw data into insights.
-
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=36BCF7&lines=Data+Analytics+Engineer;SQL+%7C+Python+%7C+Spark;Building+Data+Pipelines)
 ---
 
 ## 🚀 Tech Stack
@@ -26,27 +25,12 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Mariya's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariya-cjoy&show_icons=true&theme=tokyonight)
-
----
-
-## 🔥 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariya-cjoy&layout=compact&theme=tokyonight)
-
----
-
-## 📌 Featured Projects
-
-🔹 HR Attrition Analytics  
-🔹 Sales Data Pipeline ETL  
-🔹 Customer Segmentation Analysis  
-
----
 
 ## 🌐 Connect With Me
 
-[LinkedIn](https://www.linkedin.com/in/mariya-c-joy/)  
-[Portfolio](https://mariyacjoy5.wixstudio.com/my-portfolio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mariya%20Joy-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/mariya-c-joy/)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-black?style=for-the-badge\&logo=google-chrome)](https://mariyacjoy5.wixstudio.com/my-portfolio)
+
+[![Gmail](https://img.shields.io/badge/Gmail-Email%20Me-red?style=for-the-badge\&logo=gmail)](mailto:mariyacjoy4@gmail.com)
+
