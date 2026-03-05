@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Mariya 👋
 
-<!--
-**mariya-cjoy/mariya-cjoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analytics Engineer passionate about turning raw data into insights and building reliable data pipelines.
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages**
+- SQL
+- Python
+
+**Data Engineering**
+- Apache Spark
+- PySpark
+- ETL Pipelines
+
+**BI & Visualization**
+- Power BI
+- Amazon QuickSight
+- Kibana
+
+**Cloud & Tools**
+- AWS (Lambda, S3, CloudWatch)
+- Git / GitHub
+- Linux
+
+## What I'm working on
+- Building analytics pipelines with SQL and Python
+- Improving data workflows and automation
+- Creating dashboards that help teams make better decisions
